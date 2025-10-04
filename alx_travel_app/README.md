@@ -24,4 +24,4 @@ Base URL: `/api/`
 Visit: `/swagger/`
 
 ## Testing
-Used Postman or Swagger UI to test API endpoints.
+Used Postman  to test API endpoints.
